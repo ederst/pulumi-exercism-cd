@@ -1,7 +1,7 @@
 {
-    "name": "xyz",
+    "name": "exercism-cd",
     "resources": {
-        "xyz:index:StaticPage": {
+        "exercismcd:index:StaticPage": {
             "isComponent": true,
             "inputProperties": {
                 "indexContent": {
@@ -37,7 +37,7 @@
         },
         "go": {
             "generateResourceContainerTypes": true,
-            "importBasePath": "github.com/pulumi/pulumi-xyz/sdk/go/xyz"
+            "importBasePath": "github.com/ederst/pulumi-exercism-cd/sdk/go/exercismcd"
         },
         "nodejs": {
             "dependencies": {

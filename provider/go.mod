@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz
+module github.com/ederst/pulumi-exercism-cd
 
 go 1.15
 
